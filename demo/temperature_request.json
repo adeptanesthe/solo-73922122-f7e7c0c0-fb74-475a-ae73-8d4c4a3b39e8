@@ -1,0 +1,55 @@
+{
+  "delta_lo": -20,
+  "delta_hi": 40,
+  "log": [
+    {"time": 0, "temp": "6"},
+    {"time": 20, "temp": "7"},
+    {"time": 40, "temp": "8"},
+    {"time": 60, "temp": "9"},
+    {"time": 100, "temp": "9"},
+    {"time": 120, "temp": "8"},
+    {"time": 200, "temp": "4"}
+  ],
+  "samples": [
+    {
+      "id": "W-001",
+      "entry": 40,
+      "exit": 120,
+      "lower_temp": "2",
+      "upper_temp": "8",
+      "max_excursion_seconds": "75.5"
+    },
+    {
+      "id": "W-002",
+      "entry": 40,
+      "exit": 180,
+      "lower_temp": "2",
+      "upper_temp": "8",
+      "max_excursion_seconds": "85"
+    },
+    {
+      "id": "W-003",
+      "entry": 40,
+      "exit": 160,
+      "lower_temp": "2",
+      "upper_temp": "8",
+      "max_excursion_seconds": "80"
+    },
+    {
+      "id": "W-004",
+      "entry": 60,
+      "exit": 80,
+      "lower_temp": "2",
+      "upper_temp": "8",
+      "max_excursion_seconds": "0"
+    },
+    {
+      "id": "W-005",
+      "entry": 40,
+      "exit": 80,
+      "lower_temp": "2",
+      "upper_temp": "8",
+      "max_excursion_seconds": "0"
+    }
+  ]
+}

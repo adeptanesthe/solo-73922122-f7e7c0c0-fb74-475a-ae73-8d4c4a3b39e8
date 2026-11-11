@@ -1,0 +1,31 @@
+{
+  "delta_lo": -20,
+  "delta_hi": 40,
+  "log": [
+    {"time": 0, "temp": "6"},
+    {"time": 20, "temp": "7"},
+    {"time": 40, "temp": "8"},
+    {"time": 60, "temp": "9"},
+    {"time": 100, "temp": "9"},
+    {"time": 120, "temp": "8"},
+    {"time": 200, "temp": "4"}
+  ],
+  "samples": [
+    {
+      "id": "W-A",
+      "entry": 40,
+      "exit": 160,
+      "lower_temp": "2",
+      "upper_temp": "8",
+      "max_excursion_seconds": "80"
+    },
+    {
+      "id": "W-B",
+      "entry": 80,
+      "exit": 85,
+      "lower_temp": "2",
+      "upper_temp": "8",
+      "max_excursion_seconds": "0"
+    }
+  ]
+}

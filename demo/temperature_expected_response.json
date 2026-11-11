@@ -1,0 +1,67 @@
+{
+  "delta_lo": -20,
+  "delta_hi": 40,
+  "box_verdict": "partial",
+  "intersection": [
+    {
+      "lower": "40",
+      "upper": "40"
+    }
+  ],
+  "results": [
+    {
+      "sample_id": "W-001",
+      "verdict": "partial",
+      "feasible_intervals": [
+        {
+          "lower": "-20",
+          "upper": "-9/2"
+        },
+        {
+          "lower": "9/2",
+          "upper": "40"
+        }
+      ]
+    },
+    {
+      "sample_id": "W-002",
+      "verdict": "all",
+      "feasible_intervals": [
+        {
+          "lower": "-20",
+          "upper": "40"
+        }
+      ]
+    },
+    {
+      "sample_id": "W-003",
+      "verdict": "all",
+      "feasible_intervals": [
+        {
+          "lower": "-20",
+          "upper": "40"
+        }
+      ]
+    },
+    {
+      "sample_id": "W-004",
+      "verdict": "partial",
+      "feasible_intervals": [
+        {
+          "lower": "40",
+          "upper": "40"
+        }
+      ]
+    },
+    {
+      "sample_id": "W-005",
+      "verdict": "partial",
+      "feasible_intervals": [
+        {
+          "lower": "40",
+          "upper": "40"
+        }
+      ]
+    }
+  ]
+}

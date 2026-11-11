@@ -1,0 +1,23 @@
+{
+  "delta_lo": -20,
+  "delta_hi": 40,
+  "box_verdict": "none",
+  "intersection": [],
+  "results": [
+    {
+      "sample_id": "W-A",
+      "verdict": "all",
+      "feasible_intervals": [
+        {
+          "lower": "-20",
+          "upper": "40"
+        }
+      ]
+    },
+    {
+      "sample_id": "W-B",
+      "verdict": "none",
+      "feasible_intervals": []
+    }
+  ]
+}
